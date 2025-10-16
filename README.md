@@ -47,3 +47,5 @@ AgendPro
 │
 ├── 📁 docs/ # Documentação e design system
 │ └── logo.png
+│
+└── README.md
