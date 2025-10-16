@@ -1,0 +1,24 @@
+{
+  "name": "agendpro",
+  "version": "1.0.0",
+  "description": "AgendPro",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvgomes01/AgendPro.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jvgomes01/AgendPro/issues"
+  },
+  "homepage": "https://github.com/jvgomes01/AgendPro#readme",
+  "dependencies": {
+    "next": "^15.5.5",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  }
+}
