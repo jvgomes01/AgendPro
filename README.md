@@ -23,29 +23,4 @@ AgendPro
 | **Banco de Dados** | A definir |
 | **ORM** | A definir |
 | **Autenticação** | A definir |
-| **Hospedagem** | A definir |
-
----
-
-## 🧩 Estrutura do Projeto
-📦 agendpro
-├── 📁 frontend/ # Aplicação Next.js (React + TailwindCSS)
-│ ├── pages/
-│ ├── components/
-│ └── public/
-│
-├── 📁 backend/ # API Node.js (Express + Prisma)
-│ ├── src/
-│ │ ├── controllers/
-│ │ ├── routes/
-│ │ ├── models/
-│ │ └── server.js
-│ └── prisma/
-│ └── schema.prisma
-│
-├── 📁 database/ # Scripts SQL, seeds e migrações
-│
-├── 📁 docs/ # Documentação e design system
-│ └── logo.png
-│
-└── README.md
+| **Hospedagem** | A definir|
